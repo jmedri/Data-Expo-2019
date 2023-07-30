@@ -9,7 +9,7 @@ Our work contains two R Scripts. We detailed below a brief description of the co
 
 2. Run R code "5.ShinyRInterface_GH.r"
    
-Code needs the directory line to be updated before running anything.
+Code needs the directory line to be updated before running anything (line 18).
 - Choropleth maps
 - Linked micromap plots up to three variables
 - Smoothed scatterplots between two variables
